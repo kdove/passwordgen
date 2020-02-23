@@ -13,7 +13,7 @@ Master Pass is the passowrd Gnerator os the modern day. The Generator uses each 
 https://www.screencast.com/t/ICdPdTSRnr5
 
 3.) The following screen capture demonstrates the scheduler having all values filled in the input fields, 
-https://www.screencast.com/t/x9qq6lLBE99q
+https://www.screencast.com/t/MfCn4T39aT
 
 4.) As soon as the "submit" button on the right side of the input is clicked the application stores the values from each input field in the local brwoser storage, these values are populated from local storage in the event the page is refreshed or the user leaves the page and reopens it in the same 24 four period. 
 
